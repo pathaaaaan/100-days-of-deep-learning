@@ -1,2 +1,2 @@
-# 100-days-of-deep-pearning
+# 100-days-of-deep-learning
 learning DL from scratch
